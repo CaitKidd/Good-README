@@ -19,10 +19,11 @@
    
 ## Description
   
-🔍 A node.js application that uses user input from inquirer to populate a README.md file for user repository. The README.md file is created in the dist directory and can be found [here](.dist/README.md)  
-  
-🎥 The full movie file showing functionality of the application can be found [here](./src/dewody-readme-generator-movie.webm)  
-  
+🔍 A node.js application that creates a professional readme based on user input criteria    
+
+https://user-images.githubusercontent.com/88734760/148635402-6bd9c1f5-1902-4669-b4d9-b422921f7f40.mp4
+
+
 ## User Story
   
 ```
