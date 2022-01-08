@@ -1,0 +1,24 @@
+{
+    "name": "good-readme",
+    "version": "1.0.0",
+    "description": "a node.js application that creates a professional readme based on user input criteria",
+    "master": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/CaitKidd/Good-README.git"
+    },
+    "author": "Caitlyn Kidd",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/CaitKidd/Good-README.git/issues"
+    },
+    "homepage": "https://github.com/CaitKidd/Good-README.git#readme",
+    "dependencies": {
+        "axios": "^0.19.2",
+        "inquirer": "^7.3.3",
+        "util": "^0.12.3"
+    }
+}
